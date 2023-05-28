@@ -107,7 +107,7 @@ const Dashboard = () => {
                         {
                             label: "Revenue",
                             data: data,
-                            backgroundColor: "rgba(255, 0, 0, 1)",
+                            backgroundColor: "blue"
                         },
                     ],
                 };
